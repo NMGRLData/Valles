@@ -2,40 +2,40 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "2.52 mg", 
+    "comment": "single crystal step-heat", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": null, 
+            "deflection": 165.0, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": null, 
+            "deflection": 10.0, 
             "gain": null
         }, 
         "H1": {
-            "deflection": null, 
+            "deflection": 0.0, 
             "gain": null
         }, 
         "H2": {
-            "deflection": null, 
+            "deflection": 0.0, 
             "gain": null
         }, 
         "L1": {
-            "deflection": null, 
+            "deflection": 320.0, 
             "gain": null
         }, 
         "L2": {
-            "deflection": null, 
+            "deflection": 725.0, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63120", 
-    "increment": null, 
-    "irradiation": "NM-269", 
-    "irradiation_level": "H", 
-    "irradiation_position": 8, 
+    "identifier": "63917", 
+    "increment": 0, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "K", 
+    "irradiation_position": 11, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -68,15 +68,15 @@
             "detector": "H2"
         }
     }, 
-    "mass_spectrometer": "obama", 
-    "material": "hbl", 
+    "mass_spectrometer": "jan", 
+    "material": "Sanidine", 
     "measurement": "", 
     "project": "Valles", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Valles", 
-    "sample": "NMVC-07", 
-    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-10-22T12:38:42", 
-    "username": "MZimmerer", 
-    "uuid": "d05ede71-b5c6-4427-a962-0fdd69108553"
+    "sample": "NMVC-26", 
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
+    "timestamp": "2015-11-10T08:30:36", 
+    "username": "", 
+    "uuid": "d7be4083-3854-4865-9066-dd87cb0aaaa5"
 }

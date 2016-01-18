@@ -1,8 +1,8 @@
 {
-    "aliquot": 4, 
+    "aliquot": 3, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "single crystal", 
+    "comment": "single crystal step-heat", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63918", 
-    "increment": null, 
+    "identifier": "63917", 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "K", 
-    "irradiation_position": 12, 
+    "irradiation_position": 11, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -75,8 +75,8 @@
     "queue_conditionals_name": "", 
     "repository_identifier": "Valles", 
     "sample": "NMVC-26", 
-    "spec_sha": "be964654328a85854ca3ea62e1aa2007760b9a83", 
-    "timestamp": "2015-11-25T09:39:40", 
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
+    "timestamp": "2015-11-10T11:46:29", 
     "username": "root", 
-    "uuid": "fca533ce-68d5-403a-9898-650f708e8760"
+    "uuid": "2385070c-663c-4f7e-b6f5-a87d5dc4890d"
 }

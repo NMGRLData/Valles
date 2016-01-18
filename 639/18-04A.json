@@ -1,5 +1,5 @@
 {
-    "aliquot": 5, 
+    "aliquot": 4, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
     "comment": "single crystal", 
@@ -32,7 +32,7 @@
     }, 
     "extraction": "", 
     "identifier": "63918", 
-    "increment": null, 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "K", 
     "irradiation_position": 12, 
@@ -76,7 +76,7 @@
     "repository_identifier": "Valles", 
     "sample": "NMVC-26", 
     "spec_sha": "be964654328a85854ca3ea62e1aa2007760b9a83", 
-    "timestamp": "2015-11-25T11:02:47", 
+    "timestamp": "2015-11-25T09:39:40", 
     "username": "root", 
-    "uuid": "c951dca7-2a6e-4646-97c2-37adc7b3afb4"
+    "uuid": "fca533ce-68d5-403a-9898-650f708e8760"
 }

@@ -1,5 +1,5 @@
 {
-    "aliquot": 3, 
+    "aliquot": 2, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
     "comment": "single crystal step-heat", 
@@ -32,7 +32,7 @@
     }, 
     "extraction": "", 
     "identifier": "63917", 
-    "increment": null, 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "K", 
     "irradiation_position": 11, 
@@ -76,7 +76,7 @@
     "repository_identifier": "Valles", 
     "sample": "NMVC-26", 
     "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
-    "timestamp": "2015-11-10T11:46:29", 
-    "username": "root", 
-    "uuid": "2385070c-663c-4f7e-b6f5-a87d5dc4890d"
+    "timestamp": "2015-11-10T09:41:32", 
+    "username": "", 
+    "uuid": "8fe92dfd-fe2c-4cad-b7d3-b9f3a932d177"
 }
