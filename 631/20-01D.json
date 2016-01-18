@@ -1,0 +1,82 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "2.52 mg", 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63120", 
+    "increment": 3, 
+    "irradiation": "NM-269", 
+    "irradiation_level": "H", 
+    "irradiation_position": 8, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "hbl", 
+    "measurement": "", 
+    "project": "Valles", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Valles", 
+    "sample": "NMVC-07", 
+    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
+    "timestamp": "2014-10-22T13:37:06", 
+    "username": "MZimmerer", 
+    "uuid": "4eca517f-9a57-4354-b69a-965001306c3c"
+}

@@ -1,0 +1,82 @@
+{
+    "aliquot": 2, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystal step-heat", 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63917", 
+    "increment": 2, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "K", 
+    "irradiation_position": 11, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "Sanidine", 
+    "measurement": "", 
+    "project": "Valles", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Valles", 
+    "sample": "NMVC-26", 
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb", 
+    "timestamp": "2015-11-10T10:11:54", 
+    "username": "root", 
+    "uuid": "9439451a-c410-49cc-9f46-2389e573ea91"
+}
