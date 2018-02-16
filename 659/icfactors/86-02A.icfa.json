@@ -1,50 +1,135 @@
 {
-    "AX":{
-        "error":0.0,
-        "fit":"default",
-        "references":[
-
-        ],
-        "value":1.0
+    "AX": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
     },
-    "CDD":{
-        "error":0.0,
-        "fit":"default",
-        "references":[
-
+    "CDD": {
+        "error": 0.00038530933059801323,
+        "fit": "Linear",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-159",
+                "uuid": "3b904702-f45a-4f47-a65a-730e8ce2be18"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-160",
+                "uuid": "efa3778c-5559-4e22-b052-d72a6b5a4fe2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-161",
+                "uuid": "fdff185f-d2ba-41c1-8e08-6a8be9176ba8"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-02-J-162",
+                "uuid": "92239ac6-fe47-449e-9ac4-417a77064a83"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-163",
+                "uuid": "37c44026-6e11-4649-8b1b-30734c6505e9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-164",
+                "uuid": "e54554bf-670d-4741-96b5-059590b531a0"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-165",
+                "uuid": "605cb819-a038-4bac-a0a0-2c7d3e890280"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-166",
+                "uuid": "b8348f71-7a4c-4acf-9903-e95f07871a18"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-167",
+                "uuid": "a018b9bc-fe71-42da-a1a0-f9ff034018cb"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-02-J-168",
+                "uuid": "53ab3b40-5519-4c4b-ac97-94d6e96de340"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-169",
+                "uuid": "76eb4b2f-d0c6-4e26-9c5d-e93d5049980e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-170",
+                "uuid": "be8f1a0a-035a-456e-83fa-0889933f07f7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-171",
+                "uuid": "417bcc85-bced-4e6b-8a52-320317863bd7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-172",
+                "uuid": "5afd6dad-d989-440d-9d44-9fc619fb5de3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-173",
+                "uuid": "0fb47d69-e2a1-48d7-8de0-1006d7bef43c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-174",
+                "uuid": "7bcf8eac-70a2-4c6a-a7d1-8ae7aadefcda"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-175",
+                "uuid": "487c40be-18a2-446b-8717-8d21934eb61d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-176",
+                "uuid": "d51a3bb2-c39d-449f-8a38-9b2f40b92dcb"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-177",
+                "uuid": "e49d2a89-2acc-4eda-b4e0-63ba1f3e504a"
+            }
         ],
-        "value":1.0
+        "reviewed": true,
+        "value": 1.0044127069726163
     },
-    "H1":{
-        "error":0.0,
-        "fit":"default",
-        "references":[
-
-        ],
-        "value":1.0
+    "H1": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
     },
-    "H2":{
-        "error":0.0,
-        "fit":"default",
-        "references":[
-
-        ],
-        "value":1.0
+    "H2": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
     },
-    "L1":{
-        "error":0.0,
-        "fit":"default",
-        "references":[
-
-        ],
-        "value":1.0
+    "L1": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
     },
-    "L2":{
-        "error":0.0,
-        "fit":"default",
-        "references":[
-
-        ],
-        "value":1.0
+    "L2": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
     }
 }
