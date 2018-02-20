@@ -1,0 +1,35 @@
+{
+    "beam_diameter":"1.25",
+    "cleanup_duration":30.0,
+    "commit":"c27fcc912f0b5dc6e984fd84cdf21a21424f7c98",
+    "extract_device":"Fusions CO2",
+    "extract_duration":30.0,
+    "extract_units":"watts",
+    "extract_value":0.3,
+    "grain_polygon_blob":[
+
+    ],
+    "measured_response":"Tm8gUmVzcG9uc2U=",
+    "pattern":"dragonflypeakpattern_br1-221-hole.lp",
+    "positions":[
+        {
+            "is_degas":false,
+            "position":"18",
+            "x":null,
+            "y":null,
+            "z":null
+        }
+    ],
+    "ramp_duration":0.0,
+    "ramp_rate":0.0,
+    "requested_output":"Tm8gUmVzcG9uc2U=",
+    "setpoint_stream":"",
+    "snapshots":[
+
+    ],
+    "tray":"221-hole",
+    "videos":[
+
+    ],
+    "weight":0.0
+}
